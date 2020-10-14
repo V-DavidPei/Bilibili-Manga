@@ -38,3 +38,4 @@
 * [爱奇艺签到](https://github.com/BlueskyClouds/iQIYI-DailyBonus)
 
 启动
+启动并不成功：/
